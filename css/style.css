@@ -522,9 +522,6 @@ footer p{
     }
 
     .skip-to-main {
-        left: 0%;
-        top: 0px;
-        transform: translateY(0%);
         background: #fbff00;
         font-family: Poppins, sans-serif;
 
